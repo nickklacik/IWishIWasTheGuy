@@ -1,0 +1,5 @@
+How to run the game:
+    Run the 'IWishIWasTheGuy.py' file in order to run the game
+    
+Know Issues:
+    player constantly enters freefall on platforms moving down
