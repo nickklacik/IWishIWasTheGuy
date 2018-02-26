@@ -1,0 +1,1 @@
+A short I Wanna be the Guy clone developed in Python using the Pygame library. In the game, the player must jump through a couple levels, avoiding any obstacles, and fight a final boss. Developed in the LiClipse IDE. Final Project for CMPT 414N Game Design anf Programming I.
