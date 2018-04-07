@@ -50,10 +50,6 @@ class Game(object):
         self.current_level = None
         self.define_levels(-1, True)
 
-        pygame.mixer.music.load("TameImpala-TheLessIKnowTheBetter8-Bit.mp3")
-        pygame.mixer.music.play(-1)
-        pygame.mixer.music.set_volume(0.3)
-
     def define_levels(self, level_num, init):
         # Define Level 0
         if init or level_num == 0:
